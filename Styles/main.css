@@ -75,7 +75,7 @@ button {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.card .card-details > h2.card-header {
+.card .card-details > h1.card-header {
   font-family: "Fraunces", serif;
   line-height: 1.1;
   margin: 0.5em 0;
